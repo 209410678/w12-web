@@ -1,5 +1,5 @@
 import React from 'react';
-import T33_78 from './tutorial/3-conditional-rendering/T33_78_show-hide';
+import T33_78 from './demo/w13_slider_78/Slider_78';
 
 const App_xx = () => {
   return (
