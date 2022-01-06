@@ -38,7 +38,7 @@ const T43_78_crown2_create = () => {
   }
 
   return <>
-  <article>
+  <article style={ { marginTop: "30px" } }>
     <form className="form" onSubmit={handleSubmit}>
       <div className="form-control">
         <label htmlFor='id'>Id: </label>

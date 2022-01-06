@@ -2,10 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App_xx from './App_xx';
+import { BrowserRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <BrowserRouter>
     <App_xx />
-  </React.StrictMode>,
+  </BrowserRouter>,
   document.getElementById('root')
 );
