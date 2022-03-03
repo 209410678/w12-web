@@ -1,13 +1,13 @@
 import React from 'react';
-import T6_78 from './tutorial/6-useReducer/T6_78_index2'
+import T81_78 from './tutorial/8-useContext/T81_78-context-api'
 
 
 const App_78 = () => {
 
   return (
  <div className='container'>
-     <h2>Tutorial 6 (v2)- 209410678</h2>
-       <T6_78 />
+     <h2>Tutorial 81 - 209410678</h2>
+       <T81_78 />
      </div>
   );
 };
